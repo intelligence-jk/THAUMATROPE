@@ -1,0 +1,8 @@
+{
+  "question": "What is 12 percent of 250?",
+  "scenes": [
+    {"id": "scene01", "seconds": 3, "numbers": {"total": 250, "percent": 12}, "say": "Twelve percent of 250."},
+    {"id": "scene02", "seconds": 4, "numbers": {"total": 250, "percent": 12}, "say": "One percent of 250 is 2.5."},
+    {"id": "scene03", "seconds": 2.5, "numbers": {"answer": 30}, "say": "Twelve of those make 30."}
+  ]
+}

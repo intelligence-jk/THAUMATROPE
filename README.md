@@ -1,4 +1,6 @@
-# question-to-video
+# MUSE: Maths Understood through Scenes and Explanations
+
+Formerly `question-to-video`.
 
 A starter for turning one maths question into a short video drawn entirely in code. No paid service, no model, no account.
 

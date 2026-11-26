@@ -1,4 +1,4 @@
-# MUSE: Maths Understood through Scenes and Explanations
+# THAUMATROPE: the Victorian spinning card toy that made a picture move
 
 Formerly `question-to-video`.
 
